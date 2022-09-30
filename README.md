@@ -12,6 +12,7 @@
 
 - In God we trust. All others must bring data.
 - Need to be courageous to push commit
+- You can do PR's regarding anything this will guide you how to contribute to the open source project in near future
 
 # Contributing
 
