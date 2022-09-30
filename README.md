@@ -40,13 +40,13 @@ Anything missing on PR based on what described above will not be accepted.
 
 # Why contribute to open source?
 
-## -Improve software you rely on
-## -Improve existing skills
-## -Meet people who are interested in similar things
-## -Find mentors and teach others
-## -Build public artifacts that help you grow a reputation (and a career)
-## -Learn people skills
-## -It’s empowering to be able to make changes, even small ones.
+### -Improve software you rely on
+### -Improve existing skills
+### -Meet people who are interested in similar things
+### -Find mentors and teach others
+### -Build public artifacts that help you grow a reputation (and a career)
+### -Learn people skills
+### -It’s empowering to be able to make changes, even small ones.
 
 #### Thank you so much participating...
 
