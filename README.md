@@ -31,6 +31,7 @@ And,
 
 ## Contribute by submitting your project to reach more audience
 
+-You can create folder as /<your name>/<filename> and make further PR's
 
 ## Important Note on required content:
 
