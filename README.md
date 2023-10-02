@@ -1,5 +1,5 @@
+![logo-hacktoberfest--horizontal ebc5fdc8](https://github.com/NepaliBaabu/Non-code-party/assets/88783614/a282b588-5628-415c-87b0-8d82dbeed216)
 # Non-code-party
-<img width="2400" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/88783614/193306704-3da55ba0-8ca8-4ded-b944-c9db9e19161d.png">
 
 <h1 align="center" style="border: 0;"> Showcase </h1>
 
